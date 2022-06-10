@@ -1,38 +1,67 @@
 {
-   "users" : [
-      {
-         "id": "23",
-         "firstName": "Aditi",
-         "age": 24,
-         "companyId": "1"
-      },
-      {
-         "id": "47",
-         "firstName": "Arjun",
-         "age": 20,
-         "companyId": "2"
-      },
-      {
-         "id": "5",
-         "firstName": "Moni",
-         "age": 20
-      }
-   ],
-   "companies" : [
-      {
-         "id": "1",
-         "name": "hp",
-         "description": "laptop"
-      },
-      {
-         "id": "2",
-         "name": "Apple",
-         "description": "iphone"
-      },
-      {
-         "id": "3",
-         "name": "Google",
-         "description": "search"
-      }
-   ]
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Aditi",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "firstName": "arjun",
+      "age": 21,
+      "id": "47"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "8VV-bMJ"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "Tg4ZRWs"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "R7wy9Eu"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "JSL9SDc"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "Xv0Quya"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "-KRNBPG"
+    },
+    {
+      "firstName": "amit",
+      "age": 28,
+      "id": "FobfdS8"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "hp",
+      "description": "laptop"
+    },
+    {
+      "id": "2",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
 }
